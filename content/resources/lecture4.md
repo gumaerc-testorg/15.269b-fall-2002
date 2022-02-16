@@ -2,8 +2,13 @@
 content_type: resource
 description: "Materials to guide readings on William Shakespeare's Julius Caesar and\
   \ Niccol\xF2 di Bernardo dei Machiavelli."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-269b-literature-ethics-and-authority-fall-2002/7e379566b4dfab2a7568c4245ddf73d5_lecture4.pdf
+file: /media/courses/15-269b-literature-ethics-and-authority-fall-2002/7e379566b4dfab2a7568c4245ddf73d5_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture Four
 uid: 7e379566-b4df-ab2a-7568-c4245ddf73d5
