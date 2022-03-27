@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2b072a3d-2858-4d53-f784-a97770497615
 resourcetype: Document
 title: Lecture Seven
 uid: d251c6bd-3e3f-80f4-ad6e-87067f61b476
