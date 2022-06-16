@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course, organized
+  by session and topic. Links are provided where available to readings on the Project
+  Gutenberg site.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
