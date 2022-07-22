@@ -5,6 +5,7 @@ file: /courses/15-269b-literature-ethics-and-authority-fall-2002/c2c7b898fc7c729
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture Nine
 uid: c2c7b898-fc7c-729c-73ab-600312ff0428
 ---
 Materials to guide readings on living with the truth.
-

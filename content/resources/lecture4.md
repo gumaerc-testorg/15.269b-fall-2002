@@ -6,6 +6,7 @@ file: /courses/15-269b-literature-ethics-and-authority-fall-2002/7e379566b4dfab2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture Four
 uid: 7e379566-b4df-ab2a-7568-c4245ddf73d5
 ---
 Materials to guide readings on William Shakespeare's Julius Caesar and Niccolò di Bernardo dei Machiavelli.
-
