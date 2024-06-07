@@ -2,6 +2,7 @@
 content_type: resource
 description: Materials to guide readings on Sophocles 's Antigone and Plato's Crito.
 file: /courses/15-269b-literature-ethics-and-authority-fall-2002/db87dc103e3612eaf340604d442567c0_lecture3.pdf
+file_size: 61209
 file_type: application/pdf
 learning_resource_types:
 - Assignments

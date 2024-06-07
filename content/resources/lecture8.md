@@ -2,6 +2,7 @@
 content_type: resource
 description: Materials to guide readings on taking charge.
 file: /courses/15-269b-literature-ethics-and-authority-fall-2002/ca3901c95d29295484d0091683faa071_lecture8.pdf
+file_size: 57327
 file_type: application/pdf
 learning_resource_types:
 - Assignments

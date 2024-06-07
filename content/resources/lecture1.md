@@ -2,6 +2,7 @@
 content_type: resource
 description: Materials to guide readings on power and authority.
 file: /courses/15-269b-literature-ethics-and-authority-fall-2002/41a1f42e0b881f04762672a46926e2d6_lecture1.pdf
+file_size: 137168
 file_type: application/pdf
 learning_resource_types:
 - Assignments
