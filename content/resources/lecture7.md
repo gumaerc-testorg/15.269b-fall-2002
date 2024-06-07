@@ -3,6 +3,7 @@ content_type: resource
 description: Materials to guide readings on E. M. Forster's The Machine Stops, corporate
   virtual workplace, the Challenger incident.
 file: /courses/15-269b-literature-ethics-and-authority-fall-2002/d251c6bd3e3f80f4ad6e87067f61b476_lecture7.pdf
+file_size: 71039
 file_type: application/pdf
 learning_resource_types:
 - Assignments
