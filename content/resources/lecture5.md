@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Materials to guide readings from George Bernard Shaw and Thomas Hobbes.
-file: /ol-ocw-studio-app/courses/15-269b-literature-ethics-and-authority-fall-2002/9062c3f3fe66a7d5bb6bc09d3d2df5f1_lecture5.pdf
+file: /courses/15-269b-literature-ethics-and-authority-fall-2002/9062c3f3fe66a7d5bb6bc09d3d2df5f1_lecture5.pdf
 file_size: 65123
 file_type: application/pdf
 learning_resource_types:
