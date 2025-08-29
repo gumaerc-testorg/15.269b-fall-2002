@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of potential topics for a writing assignment on literature, ethics,
   and authority.
-file: /courses/15-269b-literature-ethics-and-authority-fall-2002/3b08004b98f7db7b75db5d9f164d0d71_paperassignment2.pdf
+file: /ol-ocw-studio-app/courses/15-269b-literature-ethics-and-authority-fall-2002/3b08004b98f7db7b75db5d9f164d0d71_paperassignment2.pdf
 file_size: 172628
 file_type: application/pdf
 learning_resource_types:

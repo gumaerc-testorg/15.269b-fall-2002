@@ -2,7 +2,7 @@
 content_type: resource
 description: "Materials to guide readings on William Shakespeare's Julius Caesar and\
   \ Niccol\xF2 di Bernardo dei Machiavelli."
-file: /courses/15-269b-literature-ethics-and-authority-fall-2002/7e379566b4dfab2a7568c4245ddf73d5_lecture4.pdf
+file: /ol-ocw-studio-app/courses/15-269b-literature-ethics-and-authority-fall-2002/7e379566b4dfab2a7568c4245ddf73d5_lecture4.pdf
 file_size: 70385
 file_type: application/pdf
 learning_resource_types:
